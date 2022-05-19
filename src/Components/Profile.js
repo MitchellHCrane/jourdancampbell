@@ -17,16 +17,16 @@ function Profile() {
       <div className="profile-grid">
         <div className="columnPic">
           <img
-            className="troyProfilePic"
-            src="../images/troyWarnerProHeadshot.jpg"
-            alt="Troy Warner Mortgage Banker"
+            className="jourdanProfilePic"
+            src="../images/jourdanCampbellHeadshot.jpeg"
+            alt="Jourdan Campbell Mortgage Banker"
           />
         </div>
         <div>
-          <h1 className="profileName">Troy Warner</h1>
-          <h2 className="NMLS">Mortgage Banker (NMLS #102983)</h2>
+          <h1 className="profileName">Jourdan Campbell</h1>
+          <h2 className="NMLS">Mortgage Banker (NMLS #1855425)</h2>
           <p className="profileP">
-            Hello! I’m Troy, I look forward to helping you along your home
+            Hello! I’m Jourdan, I look forward to helping you along your home
             buying experience. I’ve provided a few useful links to get you
             started.
           </p>
